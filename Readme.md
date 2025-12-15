@@ -117,40 +117,22 @@ Each task supports comments for collaboration and status updates.
 The application also supports light and dark mode for improved usability.
 
 # Key Features
-
 Multi-tenant architecture with organization-level data isolation
-
 Project and task management
-
 Task comments for collaboration
-
 Real-time project statistics
-
 Drag-and-drop task status updates
-
 Light and dark theme support
-
 Single GraphQL endpoint with a clean schema design
 
-Notes & Future Improvements
-
+# Notes & Future Improvements
 Authentication and role-based access control were intentionally excluded to keep the scope aligned with the assignment.
-
 Possible future enhancements include:
-
 User authentication
-
 Role-based permissions
-
 Real-time updates via GraphQL subscriptions
-
 Pagination and search
-
 Dockerization and cloud deployment
 
-
-Comments and UI features
-
 Conclusion
-
 This project demonstrates a clean, scalable, and modern full-stack architecture using GraphQL and React, with a strong focus on multi-tenancy, data isolation, and developer experience.
